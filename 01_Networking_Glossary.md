@@ -125,6 +125,6 @@ A protocol is a set of rules and standards that two devices follow to communicat
 
 -   **🌐 TCP/IP (Transmission Control Protocol/Internet Protocol):** The fundamental protocol suite for the internet. IP handles addressing and routing, TCP ensures reliable data delivery.
 -   **🏠 Ethernet:** The most common set of rules for wired LANs (IEEE 802.3 standard).
--   **📶 Wi-Fi:** The common set of rules for wireless LANs (IEEE 802.11 standard).
+-   **📶 Wi-Fi = Wireless Fidelity:** The common set of rules for wireless LANs (IEEE 802.11 standard).
 -   **📧 SMTP (Simple Mail Transfer Protocol):** Used for sending emails.
 -   **🌍 HTTP/HTTPS (Hypertext Transfer Protocol / Secure):** Used for transferring web pages on the internet.
