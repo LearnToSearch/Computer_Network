@@ -107,7 +107,7 @@ Networks are categorized by their geographical range.
 | **PAN** (Personal Area Network) | Very short (up to 10m). **Tech:** Bluetooth, Infrared. | Private. No/Low cost. | Your smartphone connecting to your smartwatch via Bluetooth. |
 | **LAN** (Local Area Network) | Small area (building, up to 5km). **Tech:** Ethernet, WiFi. | Private. | The network in your home connecting your PC, laptop, and smart TV. |
 | **CAN** (Campus Area Network) | Interconnects LANs on a campus. | Private (Organization). | A university network connecting the libraries, dorms, and academic buildings. |
-| **MAN** (Metropolitan Area Network) | Spans a city (up to 50km). **Tech:** Fiber (FDDI), ATM, Leased Lines. | Public or Private (ISP/City). | The network that connects all the public libraries and municipal offices across a city. |
+| **MAN** (Metropolitan Area Network) | Spans a city (up to 50km). **Tech:** Fiber (FDDI = Fiber Distributed Data Interface), Copper (CDDI = Copper Distributed Data Interface), ATM, Leased Lines. | Public or Private (ISP/City). | The network that connects all the public libraries and municipal offices across a city. |
 | **WAN** (Wide Area Network) | Largest scale (countries, world). **Tech:** Undersea cables, satellites. | Mixed (Collection of networks). | The internet itself. A multinational company connecting its global offices. |
 
 ---
