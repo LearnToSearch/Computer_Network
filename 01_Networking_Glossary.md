@@ -20,13 +20,13 @@ A quick guide to the essential terms, devices, and concepts in computer networki
     -   *Example:* The device your Internet Service Provider (ISP) gives you to connect your home WiFi network to the worldwide internet.
 
 -   **🔄 Repeater:** Receives a signal, cleans it (removes noise), amplifies it, and retransmits it. It is used to extend the physical range of a network by overcoming signal degradation (attenuation).
-    -   *Example:* A repeater placed halfway down a long office corridor to ensure the WiFi signal reaches the conference room at the far end.
+    -   *Example:* A repeater placed halfway down a long office corridor to ensure the WiFi signal reaches the conference room at the far end.(If you have a signal strength = x then the Repeater can boost it to only 2x).
 
 -   **📡 Hub:** A simple, "dumb" multi-port device that connects devices in a network. It receives data on one port and **broadcasts** it to **all** other ports. This creates a lot of unnecessary traffic and is inefficient.
     -   *Example:* An older, basic network connector. Hubs have been largely replaced by switches.
 
 -   **🔊 Amplifier:** Similar to a repeater, but used mainly for **analog signals**. It boosts the strength of the signal, but it also amplifies any noise along with it.
-    -   *Example:* Used in long-distance telephone lines or cable TV networks to boost the signal so it can travel farther.
+    -   *Example:* Used in long-distance telephone lines or cable TV networks to boost the signal so it can travel farther.(if you have a signal strength = x then the amplifier can boost it to 2x,3x,4x,...).
 
 ---
 
